@@ -1,7 +1,8 @@
 # Readings
 
-## Roadmap 2018
-* [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+## Roadmaps 2018
+* [The 2018 Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+* [The Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 ___
 
 ## Node Js & NPM
@@ -22,6 +23,7 @@ ___
 * [A simple guide to es6 promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 * [Oh yes! async / await](https://medium.freecodecamp.org/oh-yes-async-await-f54e5a079fc1)
 * [Avoiding the async await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [es6-features.org](http://es6-features.org/)
 ___
 
@@ -30,10 +32,17 @@ ___
 * [Learn typescript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 * [Typescript javascript with super powers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 * [Sexier imports in typescript](https://netbasal.com/sexier-imports-in-typescript-e3c645bdd3c6)
+* [Typescript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 * [www.typescriptlang.org](https://www.typescriptlang.org/)
 ___
 
+## SPA
+* [What is a Single Page Application?](https://medium.com/@pshrmn/demystifying-single-page-applications-3068d0555d46)
+___
+
 ## Angular 6
+* [The Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap)
+* [StyleGuide](https://angular.io/guide/styleguide)
 * [Tour of Heroes](https://angular.io/tutorial)
 * [Architecture in angular projects](https://medium.com/@cyrilletuzi/architecture-in-angular-projects-242606567e40)
 * [blog.angularindepth.com](blog.angularindepth.com)
@@ -43,7 +52,8 @@ ___
 * [angular-spin](https://github.com/actarian/angular-spin) [[demo](https://actarian.github.io/angular-spin/)]
 ___
 
-## Reactive Programming
+## Reactive Programming (it's not React!)
+* [The introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Introduction to reactive extensions Rxjs](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f)
 * [Learn to combine Rxjs sequences with intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
 * [The extensive guide to creating streams in Rxjs](https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a)
@@ -53,8 +63,27 @@ ___
 * [rxmarbles.com](http://rxmarbles.com/)
 ___
 
-## Linters
+## React (it's React!)
+* [The React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+* [Ueno Starter kit universally](https://github.com/ueno-llc/starter-kit-universally)
+___
+
+## Linters & Formatters
 * [Javascript linters and lint driven development](https://medium.com/@danielsternlicht/thoughts-about-javascript-linters-and-lint-driven-development-7c8f17e7e1a0)
+* [Tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+* [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+* [Vscode](https://code.visualstudio.com/)
+___
+
+## Task Runners
+
+* [gulpjs.com](https://gulpjs.com/)
+
+## Bundlers
+
+* [webpack.js.org](https://webpack.js.org/)
+
 ___
 
 ## Webgl
@@ -69,8 +98,4 @@ ___
 
 ## Various
 * [Amazing Javascript projects for the past year 2018](https://medium.mybridge.co/amazing-javascript-projects-for-the-past-year-v-2018-2f114c6bd70a)
-___
-
-## Ueno React Starter Kit
-* [Ueno Starter kit universally](https://github.com/ueno-llc/starter-kit-universally)
 ___
