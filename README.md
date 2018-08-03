@@ -99,3 +99,49 @@ ___
 ## Various
 * [Amazing Javascript projects for the past year 2018](https://medium.mybridge.co/amazing-javascript-projects-for-the-past-year-v-2018-2f114c6bd70a)
 ___
+
+## Cloud/Modern App Manifesto
+* [The twelve-factor app](https://12factor.net/)
+* [Read again](https://12factor.net/)
+* [One more time!](https://12factor.net/)
+___
+
+## Git
+### Docs
+* [Learn Git](https://docs.microsoft.com/en-us/azure/devops/git/what-is-git)
+### eBook
+* [Git Succinctly](https://www.syncfusion.com/ebooks/git)
+* [GitHub Succinctly](https://www.syncfusion.com/ebooks/github_succinctly)
+### Articles
+* [Git Strategizing: Branch, Commit, Review, and Merge](https://www.red-gate.com/simple-talk/dotnet/net-framework/git-strategizing-branch-commit-review-merge)
+* [Pull request checklist](https://ardalis.com/github-pull-request-checklist)
+  #### Git Commit Graph
+  * [Intro](https://blogs.msdn.microsoft.com/devops/2018/06/25/supercharging-the-git-commit-graph/)
+  * [File Format](https://blogs.msdn.microsoft.com/devops/2018/07/02/supercharging-the-git-commit-graph-ii-file-format/)
+  * [Generations and Graph Algorithms](https://blogs.msdn.microsoft.com/devops/2018/07/09/supercharging-the-git-commit-graph-iii-generations/)
+  * [Bloom Filters](https://blogs.msdn.microsoft.com/devops/2018/07/16/super-charging-the-git-commit-graph-iv-bloom-filters/)
+___
+
+## .NET Core
+### eBook
+* [.NET Core Succinctly](https://www.syncfusion.com/ebooks/net_core_succinctly)
+* [ASP.NET Core Succinctly](https://www.syncfusion.com/ebooks/asp_net_core_succinctly)
+* [.NET Core Official Guide](https://docs.microsoft.com/en-us/dotnet/core/)
+* [.NET Official PDF (2253 pp.)](https://docs.microsoft.com/en-us/dotnet/opbuildpdf/toc.pdf?branch=live)
+### Articles
+* [A guide to the .NET Core projects on GitHub](https://rendlelabs.com/blog/a-guide-to-the-net-projects-on-github/)
+* [The 68 things the CLR does before executing a single line of your code](http://mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/)
+* [Understanding ASP.NET Core Initialization](https://developer.telerik.com/featured/understanding-asp-net-core-initialization/)
+* [Hanselman blog](https://www.hanselman.com/blog/CategoryView.aspx?category=DotNetCore) [@shanselman](https://twitter.com/shanselman)
+* [Using the Retry pattern to make your cloud application more resilient](https://azure.microsoft.com/en-us/blog/using-the-retry-pattern-to-make-your-cloud-application-more-resilient/)
+* [Authentication](https://github.com/blowdart/AspNetAuthenticationWorkshop/blob/master/readme.md)
+* [Favor Privileges over Role Checks](https://ardalis.com/favor-privileges-over-role-checks)
+* [Http Security Headers](https://damienbod.com/2018/02/08/adding-http-headers-to-improve-security-in-an-asp-net-mvc-core-application/)
+* [Angular Config by .net core Settings](https://damienbod.com/2017/08/13/angular-configuration-using-asp-net-core-settings/)
+### Tools
+* [Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+* [Typewriter](https://github.com/frhagn/Typewriter)
+* [Fake Json Server (with GraphQL)](https://github.com/ttu/dotnet-fake-json-server)
+
+[![Awesome repos](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/thangchung/awesome-dotnet-core)
+___
