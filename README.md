@@ -49,7 +49,7 @@ ___
 * [Learn angular from top articles for the past year 2018](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016)
 * [cli.angular.io](https://cli.angular.io/)
 * [angular.io](https://angular.io/)
-* [angular-spin](https://github.com/actarian/angular-spin) [[demo](https://actarian.github.io/angular-spin/)]
+* [angular-spin](https://github.com/actarian/angular-spin) [[demo](http://eurospin-viaggi2.wslabs.it/)]
 ___
 
 ## Reactive Programming (it's not React!)
